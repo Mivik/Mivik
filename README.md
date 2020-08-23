@@ -8,10 +8,10 @@ You can contact me at @mivik233 on Telegram or 250851048 on QQ. Free chats are a
 
 <!--START_SECTION:waka-->
 ```text
-Kotlin   21 hrs 47 mins  ████████████▒░░░░░░░░░░░░   49.66 % 
-C++      21 hrs 13 mins  ████████████░░░░░░░░░░░░░   48.35 % 
-Other    21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
-Bash     15 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
-Rust     9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+C++      23 hrs 16 mins  █████████████░░░░░░░░░░░░   51.59 % 
+Kotlin   21 hrs 5 mins   ███████████▓░░░░░░░░░░░░░   46.75 % 
+Other    21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+Bash     15 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+C        3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 ```
 <!--END_SECTION:waka-->
