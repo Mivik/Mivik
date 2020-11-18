@@ -8,10 +8,10 @@ You can contact me at @mivik233 on Telegram or 250851048 on QQ. Free chats are a
 
 <!--START_SECTION:waka-->
 ```text
-C++        51 hrs 24 mins  █████████████████████░░░░   84.24 % 
-Markdown   4 hrs 29 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
-C          2 hrs 50 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
-Other      1 hr 52 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
-Git        13 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+C++        54 hrs 53 mins  █████████████████████▒░░░   85.95 % 
+Markdown   3 hrs 46 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
+C          2 hrs 50 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
+Other      1 hr 56 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+Git        13 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 ```
 <!--END_SECTION:waka-->
