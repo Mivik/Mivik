@@ -2,11 +2,11 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mivik&layout=compact)
 
-Hi there! I'm Mivik, a student in senior high. I'm currently working on [tako](https://github.com/Mivik/tako).
+Hi there! I'm Mivik.
 
 You can contact me at @mivik233 on Telegram or 250851048 on QQ. Free chats are also welcome! XD
 
-[My Blog](https://mivik.gitee.io)
+[My Blog](https://mivik.moe/)
 
 TG Channels:
 
